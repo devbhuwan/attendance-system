@@ -1,2 +1,2 @@
-# attendance-system
+# Attendance System
 Open Source Attendance System
